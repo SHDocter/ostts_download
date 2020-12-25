@@ -2,6 +2,7 @@
 .支持库 internet
 .支持库 iext
 .支持库 HtmlView
+.支持库 eAPI
 
 .程序集 窗口程序集_启动窗口
 .程序集变量 源码, 文本型
@@ -86,3 +87,8 @@ _启动窗口.标题 ＝ 文本_取出中间文本 (源码, “窗口标题：�
     信息框 (“当前已是最新版本！”, 0, , )
 .如果结束
 
+
+.子程序 _git_被单击
+
+打开指定网址 (“https://github.com/SHDocter/ostts_download/releases”)
+结束 ()
