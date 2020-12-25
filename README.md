@@ -3,7 +3,7 @@
 因为易语言的原因 下载之前先关掉360和电脑管家之类的东西 defender目前不知道会不会报毒<br><br>
 在写新的GUI 暂时不知道什么时候发行 win7-win10的转变(bushi<br><br>
 目前的进度<br>
-<img src="http://hugh.host/download.jpg">
+<img src="http://hugh.host/download.jpg"><br>
 更新日志
 
 - 2020.12.23 增加了手动跳转下载网址的按钮
