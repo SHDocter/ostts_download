@@ -1,7 +1,7 @@
 哔哩哔哩直播间7194086 mc舰长服客户端下载器<br><br>
 仅支持windows<br><br>
 程序基本上所有变量都是读取的服务器参数 部分改动无需更新下载器<br><br>
-因为易语言的原因 下载之前先关掉360和电脑管家之类的东西 defender防止报毒的方法 <a harf=‘http://www.xitongcheng.com/jiaocheng/win10_article_14906.html’>添加排除项</a><br><br>
+因为易语言的原因 下载之前先关掉360和电脑管家之类的东西 defender防止报毒的方法 [添加排除项](http://www.xitongcheng.com/jiaocheng/win10_article_14906.html)<br><br>
 在写新的GUI 暂时不知道什么时候发行 win7-win10的转变(bushi<br><br>
 目前的进度<br>
 <img src="http://hugh.host/download1.jpg"><br>
